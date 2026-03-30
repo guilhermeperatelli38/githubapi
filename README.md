@@ -20,13 +20,13 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 # Equipe
 |    Função     | Nome  Protech                                |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner |   Guilherme Peratelli       |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-peratelli-0813242a9) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
-| Scrum Master  | Rodrigo Nagy |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-nagy-a88955382/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAs9cVKZNScCvJ3RktcJCYg%3D%3D) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
-| Team Member   | Diogo Santana           |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santanadiogo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B20hvycgvR5Cu5hAK6Hl%2Bfg%3D%3D) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://diogosfcgithub.com/)        |
-|  Team Member  | Rafael Alvorada           |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-a-7008873b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrwHYQJkLSj6sKFGzOmaHjQ%3D%3D) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
-|  Team Member  | Ian Fully           |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
-|  Team Member  | Luís Guilherme      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-guilherme-soares) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
-|  Team Member  | Leandro Jarins    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-jardim-4440a3322?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](leandrosilva6167@gmail.com)    
+| Product Owner |   Guilherme Cardoso Peratelli       |     [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-peratelli-0813242a9) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)              |
+| Scrum Master  | Rodrigo de Paula Nagy |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-nagy-a88955382/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAs9cVKZNScCvJ3RktcJCYg%3D%3D) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)     |
+| Team Member   | Diogo Santana F. Carneiro           |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/santanadiogo/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B20hvycgvR5Cu5hAK6Hl%2Bfg%3D%3D) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://diogosfcgithub.com/)        |
+|  Team Member  | Rafael Costa Alvorada           |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-a-7008873b2/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrwHYQJkLSj6sKFGzOmaHjQ%3D%3D) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)        |
+|  Team Member  | Ian Fully da Costa          |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
+|  Team Member  | Luís Guilherme Soares      |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luis-guilherme-soares) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)    
+|  Team Member  | Leandro H. S. Jardins    |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-jardim-4440a3322?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](leandrosilva6167@gmail.com)    
 
 
 # Objetivo do Projeto
@@ -53,23 +53,21 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
-
-
-
-
+| 1    | Alta       | Quais são os principais setores industriais e de serviços presentes na região de São José dos Campos?                                                   | 5          | 1      |
+| 2    | Alta       | Quais tipos de atividades produtivas predominam (manufatura, tecnologia, logística, serviços especializados etc.)?                                      | 8          | 1      |
+| 3    | Alta       | Como esses setores estão distribuídos geograficamente no município e na região?                                                                         | 5          | 1      |
+| 4    | Média      | Quais são os principais macroprocessos produtivos identificados nas empresas da região?                                                                 | 5          | 2      |
+| 5    | Média      | Qual a relação entre os setores industriais presentes e o desenvolvimento tecnológico regional?                                                         | 2          | 2      |
+| 6    | Média      | Como o ecossistema produtivo regional se conecta com inovação, tecnologia e desenvolvimento econômico?                                                  | 5          | 2      |
+| 7    | Baixa      | Quais oportunidades de atuação profissional podem ser identificadas para o engenheiro de produção nesse contexto?                                       |5           | 2      |
 
   
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
 |-------------------|------------|----------|-----------|
-| 01                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp1.md)  |
-| 02                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp2.md)  |
-| 03                | dd/mm/aaaa | a fazer  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | dd/mm/aaaa | a fazer  | [MVP](#)  |
+| 01                | 20/04/2026 | a fazer  | [MVP](MVP/sp1.md)  |
+| 02                | 18/05/2026 | a fazer  | [MVP](MVP/sp2.md)  |
+| 03                | 08/06/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| Feira de Soluções | 18/06/2026 | a fazer  | [MVP](#)  |
 
