@@ -52,14 +52,14 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Quais são os principais setores industriais e de serviços presentes na região de São José dos Campos?                                                   | 18 dias    | 1      |
-| 2    | Alta       | Quais tipos de atividades produtivas predominam (manufatura, tecnologia, logística, serviços especializados etc.)?                                      | -          | 1      |
-| 3    | Alta       | Como esses setores estão distribuídos geograficamente no município e na região?                                                                         | -          | 1      |
-| 4    | Média      | Quais são os principais macroprocessos produtivos identificados nas empresas da região?                                                                 | 15 dias    | 2      |
-| 5    | Média      | Qual a relação entre os setores industriais presentes e o desenvolvimento tecnológico regional?                                                         | -          | 2      |
-| 6    | Média      | Como o ecossistema produtivo regional se conecta com inovação, tecnologia e desenvolvimento econômico?                                                  | -          | 2      |
-| 7    | Baixa      | Quais oportunidades de atuação profissional podem ser identificadas para o engenheiro de produção nesse contexto?                                       | -          | 2      |
-| 8    | Alta       | Dashboard já em funcionalidade. Pequnos detalhes serão revisados até o dia da feira de soluções                                                         | 20 dias    | 3      |
+| 1º   | Alta       | Quais são os principais setores industriais e de serviços presentes na região de São José dos Campos?                                                   | 18 dias    | 1      |
+| 2º   | Alta       | Quais tipos de atividades produtivas predominam (manufatura, tecnologia, logística, serviços especializados etc.)?                                      | -          | 1      |
+| 3º   | Alta       | Como esses setores estão distribuídos geograficamente no município e na região?                                                                         | -          | 1      |
+| 4º   | Média      | Quais são os principais macroprocessos produtivos identificados nas empresas da região?                                                                 | 15 dias    | 2      |
+| 5º   | Média      | Qual a relação entre os setores industriais presentes e o desenvolvimento tecnológico regional?                                                         | -          | 2      |
+| 6º   | Média      | Como o ecossistema produtivo regional se conecta com inovação, tecnologia e desenvolvimento econômico?                                                  | -          | 2      |
+| 7º   | Baixa      | Quais oportunidades de atuação profissional podem ser identificadas para o engenheiro de produção nesse contexto?                                       | -          | 2      |
+| 8º   | Alta       | Dashboard já em funcionalidade. Pequnos detalhes serão revisados até o dia da feira de soluções                                                         | 20 dias    | 3      |
   
 
 # Registro das Sprints
